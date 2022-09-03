@@ -84,7 +84,7 @@ svg{
 
 @media (max-width: 770px) {
     .main-container{
-        width: 60%;
+        width: 70%;
     }
 
     html{
@@ -94,5 +94,9 @@ svg{
     .main-container{
         padding-left: 0.9rem;
         padding-right: 0.9rem;
+    }
+
+    .credit{
+        bottom: 2rem;
     }
 }
